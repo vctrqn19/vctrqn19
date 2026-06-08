@@ -14,5 +14,5 @@ I'm Victoria, a CS, Math minor graduate looking to fill this page with lots of c
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Made with **Next.js**, **TailwindCSS** and **Typescript**, maintained and updated by me and my small team of programmers <br/>
 
 #### Some of my planned projects include...
-&nbsp;&nbsp;&nbsp;&nbsp;🌴 An iOS app to help Animal Crossing New Horizons players plan their islands using _Swift_ in **Xcode** w/ **Firestore** & the [Nookipedia API](https://api.nookipedia.com/)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;🌴 An iOS app to help Animal Crossing New Horizons players plan their islands using _Swift_ (**Xcode**) w/ **Firestore** & the [Nookipedia API](https://api.nookipedia.com/)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;📚 A web app to guide new and experienced comic book readers along their reading journey **using Next.js, Supabase, and Vercel**
