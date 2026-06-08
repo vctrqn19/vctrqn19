@@ -6,7 +6,7 @@ I'm Victoria, a CS, Math minor graduate looking to fill this page with lots of c
 &nbsp;&nbsp;&nbsp;&nbsp;🦇 A Victorian-era gothic romance visual novel **with Unity** _using C# and Ink_ 🎮<br/> 
 
 #### My favorite past projects are...
-&nbsp;&nbsp;&nbsp;&nbsp;🪐 [orbit.r](https://hobbyist.vercel.app/), a social media web app for hobbyists to engage with content within their niches, curate their experience, and discover new hubs <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;🪐 [orbit.r](https://hobbyist.vercel.app/), a social media web app for people to engage with content within their niches and curate their experience <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Made with **Next.js** and **Supabase**, hosted on **Vercel** w/ the assistance of **AI-first IDEs** for my senior capstone group project <br/><br/>
 &nbsp;&nbsp;&nbsp;&nbsp;🤝 [GS-LSAMP](https://gslsamp.vercel.app/) (currently inactive), the general website for the Garden State Louis Stokes Alliance for Minority Participation <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Made with **Next.js** and **TailwindCSS**, fully designed, developed, and maintained by me as the Web Dev Team Lead <br/><br/>
